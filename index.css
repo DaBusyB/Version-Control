@@ -3,3 +3,8 @@ h1 {
     border: 2px dotted orange;
     padding: 15px;
 }
+
+p {
+color: orange;
+font-size: 48px;
+}
